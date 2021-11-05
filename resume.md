@@ -30,7 +30,7 @@ __Chemical Engineering 1st year Ph.D. Fellowship__, University of Rochester
 
 ## Research Experiences
 `Mar. 2021 - Present`
-### Project: Ultra-high refractive index thin film by vapor deposition for optoelectronics	             
+### Project: Ultra-high refractive index thin film by vapor deposition for optoelectronics [[Presentation]](https://drive.google.com/file/d/1K870nrPUSp0WnG-q2lJymhdn7Quqai7F/view?usp=sharing)           
 * Designed, prototyped, and assembled a customized initiated chemical vapor deposition (iCVD) reactor.
 * Developed a fabrication method for preparing high refractive index polymer via iCVD for applications including microlens for complementary metal oxide semiconductor (CMOS) sensors, antireflective (AR) coatings, and Encapsulants for LEDs, etc.
 
