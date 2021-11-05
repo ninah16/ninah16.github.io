@@ -7,7 +7,7 @@ layout: resume
 
 ## Currently
 
-Current Position Description
+Graduate Research Assistant 
 
 ## Education
 
