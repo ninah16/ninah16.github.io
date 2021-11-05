@@ -70,3 +70,4 @@ OriginLab, MS Office, AutoCAD, Adobe Illustrator, OptiLayer
 DC/RF sputtering, E-beam/thermal evaporation, Chemical vapor deposition (CVD)
 ### Materials analysis: 
 Spectroscopic Ellipsometry, FTIR, SEM, White Light Interferometry, AFM, UV-Vis Spectrophotometry, Thermogravimetric Analysis (TGA), XPS, Polarized optical microscopy (POM)
+
