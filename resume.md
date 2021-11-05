@@ -7,22 +7,29 @@ layout: resume
 
 ## Currently
 
-Graduate Research Assistant 
+`2018 - Present`
+Graduate Research Assistant &nbsp;@&nbsp;__University of Rochester__
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2012 - 2016`
+__Beijing University of Chemical Technology__
+&nbsp; B.S.
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2016 - 2018`
+__Columbia University in the City of New York__
+&nbsp; M.S. 
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2021`
+__Kwang-Yu and Lee-Chien Wang Graduate Fellowship__, University of Rochester<br />
+`2020`
+__Earl W. Costich Graduate Fellowship__, University of Rochester<br />
+`2019`
+__Chemical Engineering 1st year Ph.D. Fellowship__, University of Rochester
+
+
 
 ## Publications
 
