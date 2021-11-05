@@ -51,9 +51,9 @@ __Chemical Engineering 1st year Ph.D. Fellowship__, University of Rochester
 * Solved the boundary conditions of the problem by matching terms, simulated the temperature distribution of the inner wall of the Andorian tomb.
 
 ## Publications
-* Zhao, Y., Huo, N., Ye, S., Boromand, A., Ouderkirk, A. J., & Tenhaeff, W. E. (2021). Stretchable, Transparent, Permeation Barrier Layer for Flexible Optics. Advanced Optical Materials, 9(12), 2100334. https://doi.org/10.1002/adom.202100334 
+* Zhao, Y., Huo, N., Ye, S., Boromand, A., Ouderkirk, A. J., & Tenhaeff, W. E. (2021). Stretchable, Transparent, Permeation Barrier Layer for Flexible Optics. Advanced Optical Materials, 9(12), 2100334. [https://doi.org/10.1002/adom.202100334](https://doi.org/10.1002/adom.202100334)
 
-* Li, K., Huo, N., Liu, X., Cheng, J., & Zhang, J. (2016). Effects of the furan ring in epoxy resin on the thermomechanical properties of highly cross-linked epoxy networks: a molecular simulation study. RSC Advances, 6(1), 769–777. https://doi.org/10.1039/c5ra22955c
+* Li, K., Huo, N., Liu, X., Cheng, J., & Zhang, J. (2016). Effects of the furan ring in epoxy resin on the thermomechanical properties of highly cross-linked epoxy networks: a molecular simulation study. RSC Advances, 6(1), 769–777. [https://doi.org/10.1039/c5ra22955c](https://doi.org/10.1039/c5ra22955c)
 
 ## Leaderships and Community Involvement
 * Lab manager, Steward of Spectroscopic Ellipsometer and iCVD reactors	Sept. 2019 - Present
