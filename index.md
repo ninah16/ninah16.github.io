@@ -1,4 +1,7 @@
-
+---
+layout: home
+excerpt: "About Me..."
+---
 
 ## About Ni
 
