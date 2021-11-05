@@ -9,19 +9,17 @@ logo: # logo.png # filename of a logo image that has been placed into your image
 owner:
   name: Ni Huo
   avatar: #bio-photo.jpg
-  bio: Graduate Student at University of Rochester, Chemical Engineering / Vacuum deposoition systems / Optical coatings 
-  email: ni.huo@rochester.edu
-  twitter: 123
+  bio: Graduate Student at University of Rochester, Semiconductor/Chemical Engineering/Optical Coating 
+  email: nhuo@ur.rochester.edu
   linkedin: https://www.linkedin.com/in/ni-nina-h-954b51126/
-  github: rochester-rcl
-  orcid: 123
-  researchgate: 123 
-  mendeley: 123 
+  github: ninah16.github.io
+  orcid: https://orcid.org/ 0000-0001-7401-5836
+  researchgate: https://www.researchgate.net/profile/Ni-Huo 
   google:
     plus: #username
     analytics:
     verify:
-    scholar: 123 
+    scholar: https://scholar.google.com/citations?user=yROdzCUAAAAJ&amp;hl=en 
   facebook: #username
   instagram: #username
   bing-verify:
@@ -39,12 +37,12 @@ owner:
   flickr: #username
   codepen: #username
   disqus-shortname: #username
-  resume: 123 
+  resume: https://drive.google.com/file/d/1rGOozBkfJxJ6A0Ibcx2uBt346QKDD-Kb/view?usp=sharing 
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-lowlight-color:  '#4c5f07'
-highlight-color: '#0aff74'
+lowlight-color:  '#006633'
+highlight-color: '#99cc33'
 
 # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
