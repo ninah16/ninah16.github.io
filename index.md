@@ -6,7 +6,7 @@ excerpt: "About Me..."
 This project is meant to help students and researchers across University of Rochester create their
   own hosted academic website for free with GitHub. 
 
-## About this Site
+## About Ni
 
 This project is a slight customization based off of some great work by 
   [NC State University Libraries](https://www.lib.ncsu.edu/).
@@ -15,7 +15,7 @@ This project is a slight customization based off of some great work by
   and [workshop documentation](https://ncsu-libraries.github.io/jekyll-academic-docs/workshop/). 
 
 
-## Creating Your Own
+## Projects
 
 To see a step-by-step guide to build your own site, go to the [RESEARCH](/research) section. 
   There you'll find a basic [guide](/blog/getting-started) that will help you
