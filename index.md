@@ -3,9 +3,6 @@ layout: home
 excerpt: "About Me..."
 ---
 
-This project is meant to help students and researchers across University of Rochester create their
-  own hosted academic website for free with GitHub. 
-
 ## About Ni
 
 I am a Ph.D candidate advised by Prof. Wyatt E. Tenhaeff at the University of Rochester majoring in Chemical Engineering with a concentration in optical thin films and vacuum deposition systems. 
