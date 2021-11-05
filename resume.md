@@ -1,4 +1,7 @@
-
+---
+title: Resume
+layout: resume
+---
 
 ## Currently
 
